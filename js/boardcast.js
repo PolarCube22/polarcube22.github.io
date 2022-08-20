@@ -1,0 +1,1 @@
+swal('欢迎来到PolarCube服务器官网\n我们的服务器IP地址是PolarCube.CN\n欢迎您前来游玩，感谢您的访问。\n');

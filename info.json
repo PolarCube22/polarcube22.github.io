@@ -1,0 +1,680 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.fcwqmc.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 42725,
+            "children": [
+                {
+                    "url": "https://www.fcwqmc.cn/img/bg2.jpg",
+                    "path": "img/bg2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/bg.jpg",
+                    "path": "img/bg.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/bg1.jpg",
+                    "path": "img/bg1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/core-img/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/bg-pattern/1.png",
+                    "path": "img/1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/QQ%E5%9B%BE%E7%89%8720210622123119.jpg",
+                    "path": "img/QQ图片20210622123119.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/fcwq1.png",
+                    "path": "img/fcwq1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/fcwq2.png",
+                    "path": "img/fcwq2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/jixian.png",
+                    "path": "img/jixian.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/cs.png",
+                    "path": "img/cs.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/fcwqteam/hd.png",
+                    "path": "img/hd.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/fcwqteam/tk.png",
+                    "path": "img/tk.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/amk.png",
+                    "path": "img/amk.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/fcwqteam/fox.png",
+                    "path": "img/fox.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/fcwqteam/gd.jpg",
+                    "path": "img/gd.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/fcwqteam/sou.jpg",
+                    "path": "img/sou.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/fcwqteam/hc.png",
+                    "path": "img/hc.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/fcwqteam/wq.png",
+                    "path": "img/wq.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/fcwqly/3.png",
+                    "path": "img/3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/fcwqly/2.jpg",
+                    "path": "img/2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/tk.png",
+                    "path": "img/tk_1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/team/2.png",
+                    "path": "img/2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/team/1.png",
+                    "path": "img/1_1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/jquery-2.2.4.min.js",
+                    "path": "js/jquery-2.2.4.min.js",
+                    "saved": true,
+                    "size": 85578,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/bootstrap.min.js",
+                    "path": "js/bootstrap.min.js",
+                    "saved": true,
+                    "size": 37045,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/jquery.waypoints.min.js",
+                    "path": "js/jquery.waypoints.min.js",
+                    "saved": true,
+                    "size": 8044,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/owl.carousel.min.js",
+                    "path": "js/owl.carousel.min.js",
+                    "saved": true,
+                    "size": 40401,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/ajax-contact.js",
+                    "path": "js/ajax-contact.js",
+                    "saved": true,
+                    "size": 1653,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/meanmenu.js",
+                    "path": "js/meanmenu.js",
+                    "saved": true,
+                    "size": 11726,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/jquery.nav.min.js",
+                    "path": "js/jquery.nav.min.js",
+                    "saved": true,
+                    "size": 2474,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/jquery.magnific-popup.min.js",
+                    "path": "js/jquery.magnific-popup.min.js",
+                    "saved": true,
+                    "size": 20216,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/counterup.min.js",
+                    "path": "js/counterup.min.js",
+                    "saved": true,
+                    "size": 1074,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/jquery.scrollUp.js",
+                    "path": "js/jquery.scrollUp.js",
+                    "saved": true,
+                    "size": 5500,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/jquery.easing.1.3.js",
+                    "path": "js/jquery.easing.1.3.js",
+                    "saved": true,
+                    "size": 3338,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/jquery.sticky.js",
+                    "path": "js/jquery.sticky.js",
+                    "saved": true,
+                    "size": 9989,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/wow.min.js",
+                    "path": "js/wow.min.js",
+                    "saved": true,
+                    "size": 8183,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/jquery.stellar.min.js",
+                    "path": "js/jquery.stellar.min.js",
+                    "saved": true,
+                    "size": 12637,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/YTPlayer.min.js",
+                    "path": "js/YTPlayer.min.js",
+                    "saved": true,
+                    "size": 44862,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/map-active.js",
+                    "path": "js/map-active.js",
+                    "saved": true,
+                    "size": 1517,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/custom.js",
+                    "path": "js/custom.js",
+                    "saved": true,
+                    "size": 5954,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/windows.js",
+                    "path": "js/windows.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.bootcss.com/sweetalert/2.1.0/sweetalert.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/boardcast.js",
+                    "path": "js/boardcast.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/js/winjob.js",
+                    "path": "js/winjob.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 58847,
+                    "children": [
+                        {
+                            "url": "https://www.fcwqmc.cn/css/nivoslider.css",
+                            "path": "css/nivoslider.css",
+                            "saved": true,
+                            "size": 5591,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/css/magnific-popup.css",
+                            "path": "css/magnific-popup.css",
+                            "saved": true,
+                            "size": 5599,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/css/animate.css",
+                            "path": "css/animate.css",
+                            "saved": true,
+                            "size": 57095,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/css/meanmenu.css",
+                            "path": "css/meanmenu.css",
+                            "saved": true,
+                            "size": 3446,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/css/owl.carousel.css",
+                            "path": "css/owl.carousel.css",
+                            "saved": true,
+                            "size": 4614,
+                            "children": [
+                                {
+                                    "url": "https://www.fcwqmc.cn/css/owl.video.play.png",
+                                    "saved": false
+                                }
+                            ]
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/css/et-line.css",
+                            "path": "css/et-line.css",
+                            "saved": true,
+                            "size": 7066,
+                            "children": [
+                                {
+                                    "url": "https://www.fcwqmc.cn/fonts/et-line.eot",
+                                    "path": "fonts/et-line.eot",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://www.fcwqmc.cn/fonts/et-line.woff",
+                                    "path": "fonts/et-line.woff",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://www.fcwqmc.cn/fonts/et-line.ttf",
+                                    "path": "fonts/et-line.ttf",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://www.fcwqmc.cn/fonts/et-line.svg#et-line",
+                                    "saved": false
+                                }
+                            ]
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/css/YTPlayer.css",
+                            "path": "css/YTPlayer.css",
+                            "saved": true,
+                            "size": 11984,
+                            "children": [
+                                {
+                                    "url": "https://www.fcwqmc.cn/css/ytp-regular.eot",
+                                    "saved": false
+                                },
+                                {
+                                    "url": "https://www.fcwqmc.cn/css/ytp-regular.ttf",
+                                    "saved": false
+                                },
+                                {
+                                    "url": "https://www.fcwqmc.cn/images/raster.png",
+                                    "saved": false
+                                },
+                                {
+                                    "url": "https://www.fcwqmc.cn/images/raster@2x.png",
+                                    "saved": false
+                                },
+                                {
+                                    "url": "https://www.fcwqmc.cn/images/raster_dot.png",
+                                    "saved": false
+                                },
+                                {
+                                    "url": "https://www.fcwqmc.cn/images/raster_dot@2x.png",
+                                    "saved": false
+                                }
+                            ]
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/montserrat-light.eot",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/montserrat-light.eot?#iefix",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/montserrat-light.woff2",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/montserrat-light.woff",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/montserrat-light.ttf",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/montserrat-light.svg#montserratlight",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/img/core-img/preloader.gif",
+                            "path": "img/preloader.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/img/bg-pattern/call-to-bg.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/img/bg-pattern/breadcumb.jpg",
+                            "path": "img/breadcumb.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/img/bg-pattern/video.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/img/bg-pattern/tes-bg.jpg",
+                            "path": "img/tes-bg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/img/core-img/add.png",
+                            "path": "img/add.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/img/core-img/add-white.png",
+                            "path": "img/add-white.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/css/responsive.css",
+                    "path": "css/responsive.css",
+                    "saved": true,
+                    "size": 6681,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/css/font-awesome.min.css",
+                    "path": "css/font-awesome.min_1.css",
+                    "saved": true,
+                    "size": 21957,
+                    "children": [
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/fontawesome-webfont.eot?v=4.2.0",
+                            "path": "fonts/fontawesome-webfont_2.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/fontawesome-webfont.woff?v=4.2.0",
+                            "path": "fonts/fontawesome-webfont_1.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/fontawesome-webfont.ttf?v=4.2.0",
+                            "path": "fonts/fontawesome-webfont_1.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular",
+                            "path": "img/fontawesome-webfont_1.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/css/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css",
+                    "saved": true,
+                    "size": 113495,
+                    "children": [
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/glyphicons-halflings-regular.eot",
+                            "path": "fonts/glyphicons-halflings-regular.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/glyphicons-halflings-regular.woff",
+                            "path": "fonts/glyphicons-halflings-regular.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/glyphicons-halflings-regular.ttf",
+                            "path": "fonts/glyphicons-halflings-regular.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.fcwqmc.cn/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular",
+                            "path": "img/glyphicons-halflings-regular.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/css1/font-awesome.css",
+                    "path": "css/font-awesome.css",
+                    "saved": true,
+                    "size": 37373,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/css/teambg.css",
+                    "path": "css/teambg.css",
+                    "saved": true,
+                    "size": 160,
+                    "children": [
+                        {
+                            "url": "https://www.fcwqmc.cn/img/teambg.png",
+                            "path": "img/teambg.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/css/button.css",
+                    "path": "css/button.css",
+                    "saved": true,
+                    "size": 486,
+                    "children": []
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/img/core-img/favicon.ico",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.fcwqmc.cn/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-fcwqmc-cn-o0outh1",
+    "info": {
+        "remark": [],
+        "title": "风城无情官网网站 - Minecraft服务器|我的世界|我的世界服务器|Minecraft",
+        "domain": "www.fcwqmc.cn",
+        "origin": "https://www.fcwqmc.cn",
+        "ip": "39.106.54.131",
+        "main": "index.html",
+        "url": "https://www.fcwqmc.cn/",
+        "totalSize": "677 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://www.fcwqmc.cn/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://www.fcwqmc.cn/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Sat, 28 May 2022 09:02:08 GMT",
+                "server": "Apache",
+                "last-modified": "Mon, 17 Jan 2022 10:22:11 GMT",
+                "etag": "\"df99d-c065-5d5c4868988a8\"",
+                "accept-ranges": "bytes",
+                "content-length": "49253",
+                "vary": "Accept-Encoding,User-Agent",
+                "connection": "close",
+                "content-type": "text/html"
+            }
+        },
+        "time": {
+            "start": "2022-05-28T09:02:07.611Z",
+            "end": "2022-05-28T09:02:32.495Z"
+        }
+    },
+    "options": {
+        "url": "https://www.fcwqmc.cn/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
